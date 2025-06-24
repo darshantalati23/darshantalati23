@@ -1,13 +1,57 @@
-<h1 align="center">Hi 👋, I'm Darshan Talati</h1>
-<h3 align="center">A passionate developer from India</h3>
-
-- 🌱 I’m currently learning **Web-Development (MERN Stack) and DSA**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dkt-ekantik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dkt-ekantik" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dkt_ekantik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dkt_ekantik" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Darshan+Talati;MERN+Stack+Learner;DSA+Explorer;Open+Source+Enthusiast!&center=true&width=500&height=50">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">Welcome to My GitHub 👨‍💻</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 I’m currently building **full-stack MERN projects**
+- 🌱 Learning **Web-Development** and diving into **DSA**
+- 💬 Ask me about **Linux, JavaScript, C++, Git**
+- 🎯 Currently exploring **Open Source** & **Tech Communities**
+- 🏓 I'm good at *Table Tennis*
+
+---
+
+### 📬 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/dkt-ekantik" target="blank"><img src="https://img.shields.io/badge/-Darshan%20Talati-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/dkt_ekantik" target="blank"><img src="https://img.shields.io/badge/Codeforces-dkt__ekantik-orange?style=for-the-badge&logo=codeforces" /></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,tailwind,figma,git,linux" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darshantalati23&theme=onedark&row=1&column=7" />
+</p>
+
+---
+
+### 🧠 Quote of the Day
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+### 🧮 Visitor Counter
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=darshantalati23&label=Profile%20views&color=0e75b6&style=flat" alt="darshantalati23" />
+</p>
