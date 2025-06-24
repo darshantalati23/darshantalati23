@@ -1,12 +1,8 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+👋,+I'm+Darshan+Talati;MERN+Stack+Learner;DSA+Explorer;Open+Source+Enthusiast!" alt="Typing SVG" />
-</p>
-
-<h1 align="center">Welcome to My GitHub 👨‍💻</h1>
+<h1>Hey There! I'm Darshan Talati
+<h3 align="center" style="color: #d1d1d1">Welcome to My GitHub 👨‍💻</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Barrio&letterSpacing=5px&pause=1000&color=CBD4F7&center=true&vCenter=true&width=435&lines=MERN+Stack+Learner;DSA+Explorer;Open+Source+Enthusiast!" alt="Typing SVG" />
 </p>
 
 ---
