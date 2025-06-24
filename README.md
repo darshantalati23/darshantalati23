@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Darshan+Talati;MERN+Stack+Learner;DSA+Explorer;Open+Source+Enthusiast!&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+👋,+I'm+Darshan+Talati;MERN+Stack+Learner;DSA+Explorer;Open+Source+Enthusiast!" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Welcome to My GitHub 👨‍💻</h1>
@@ -13,10 +13,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently building **full-stack MERN projects**
+<!-- - 🔭 I’m currently building **full-stack MERN projects** -->
 - 🌱 Learning **Web-Development** and diving into **DSA**
-- 💬 Ask me about **Linux, JavaScript, C++, Git**
-- 🎯 Currently exploring **Open Source** & **Tech Communities**
+<!-- - 💬 Ask me about **Linux, JavaScript, C++, Git** -->
+- 🎯 Currently exploring **Tech Communities** and **Backend Technologies**
 - 🏓 I'm good at *Table Tennis*
 
 ---
@@ -47,11 +47,12 @@
 ---
 
 ### 🧠 Quote of the Day
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “No amount of 🤑 ever bought a second of ⌚” – Tony Stark
 
 ---
-
+<!--
 ### 🧮 Visitor Counter
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=darshantalati23&label=Profile%20views&color=0e75b6&style=flat" alt="darshantalati23" />
 </p>
+-->
