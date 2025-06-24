@@ -1,8 +1,8 @@
-<h1>Hey There! I'm Darshan Talati
+<h1 align="center">Hey There 👋, I'm Darshan Talati!
 <h3 align="center" style="color: #d1d1d1">Welcome to My GitHub 👨‍💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Barrio&letterSpacing=5px&pause=1000&color=CBD4F7&center=true&vCenter=true&width=435&lines=MERN+Stack+Learner;DSA+Explorer;Open+Source+Enthusiast!" alt="Typing SVG" />
+  <img style="scale: 1.5" src="https://readme-typing-svg.herokuapp.com?font=Barrio&letterSpacing=5px&pause=1000&color=CBD4F7&center=true&vCenter=true&width=435&lines=MERN+Stack+Learner;DSA+Explorer;Open to Collaboration!" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,8 +10,10 @@
 ### 🧑‍💻 About Me
 
 <!-- - 🔭 I’m currently building **full-stack MERN projects** -->
+- 🎓 Student at DA-IICT(DAU), Gandhinagar
 - 🌱 Learning **Web-Development** and diving into **DSA**
 <!-- - 💬 Ask me about **Linux, JavaScript, C++, Git** -->
+- 🧑‍🤝‍🧑 Actively seeking collaboration on *Development* and *ICT* Projects
 - 🎯 Currently exploring **Tech Communities** and **Backend Technologies**
 - 🏓 I'm good at *Table Tennis*
 
@@ -21,7 +23,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/dkt-ekantik" target="blank"><img src="https://img.shields.io/badge/-Darshan%20Talati-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/dkt_ekantik" target="blank"><img src="https://img.shields.io/badge/Codeforces-dkt__ekantik-orange?style=for-the-badge&logo=codeforces" /></a>
+  <!-- <a href="https://codeforces.com/profile/dkt_ekantik" target="blank"><img src="https://img.shields.io/badge/Codeforces-dkt__ekantik-orange?style=for-the-badge&logo=codeforces" /></a> -->
 </p>
 
 ---
@@ -43,7 +45,7 @@
 ---
 
 ### 🧠 Quote of the Day
-> “No amount of 🤑 ever bought a second of ⌚” – Tony Stark
+> ```Prayers + Hardwork = Success``` *– Pramukh Swami Maharaj*
 
 ---
 <!--
