@@ -3,7 +3,7 @@
 <p></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Barrio&letterSpacing=5px&pause=1000&color=CBD4F7&center=true&vCenter=true&width=435&lines=MERN+Stack+Learner;DSA+Explorer;Open to Collaboration!" alt="Typing SVG" />
+  <img src="./typeriter.gif" alt="Typing SVG" />
 </p>
 
 ---
