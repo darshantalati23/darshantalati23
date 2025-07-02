@@ -2,8 +2,8 @@
 <h3 align="center" style="color: #d1d1d1">Welcome to My GitHub 👨‍💻</h3>
 <p></p>
 
-<p align="center">
-  <img src="./typewriter.gif" alt="Typing SVG" width="60%" height="60%"/>
+<p align="left">
+  <img src="./typewriter.gif" alt="Typing SVG" width="65%" height="65%"/>
 </p>
 
 ---
