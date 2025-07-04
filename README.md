@@ -29,10 +29,16 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Programming Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,tailwind,figma,git,linux,node,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,tailwind,git,linux,nodejs,express,mongodb" />
+</p>
+
+### ✒️ Others
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,dummy_space,xd,dummy_space,pr,dummy_space,latex,dummy_space,ai" />
 </p>
 
 ---
