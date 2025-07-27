@@ -3,7 +3,7 @@
 <p></p>
 
 <p align="left">
-  <img src="./TextStudio-Typewriter.gif" alt="Typing SVG" width="55%" height="55%"/>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&size=24&letterSpacing=0.05rem&duration=3001&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=MERN+Stack+Developer;DSA+Learner;Solving+Real+World+Problems)](https://git.io/typing-svg)
 </p>
 
 ---
@@ -14,8 +14,8 @@
 - 🌱 Learning **Web-Development** and diving into **DSA**
 - 🧑‍🤝‍🧑 Actively seeking collaboration on *Development* and *ICT* Projects
 - 🎯 Currently exploring **Tech Communities** and **Backend Technologies**
+- 🔭 I’m currently building **full-stack MERN projects**
 - 🏓 I'm good at *Table Tennis*
-<!-- - 🔭 I’m currently building **full-stack MERN projects** -->
 <!-- - 💬 Ask me about **Linux, JavaScript, C++, Git** -->
 
 ---
