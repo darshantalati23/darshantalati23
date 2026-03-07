@@ -34,7 +34,7 @@
 ### 🛠️ Programming Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,tailwind,git,linux,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,tailwind,git,linux,nodejs,express,mongodb,python" />
 </p>
 
 ### ✒️ Others
